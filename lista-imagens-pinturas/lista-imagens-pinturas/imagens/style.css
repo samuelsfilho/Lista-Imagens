@@ -1,0 +1,35 @@
+
+.container .lista-imagens {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    list-style: none;
+    margin-top: 150px;
+}
+
+
+h2 {
+    position: absolute;
+    color: #ffffff;
+    position: absolute;
+    margin-top: 340px;
+    margin-left: 30px;
+    font-family: Public Sans;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 100%;
+    letter-spacing: 0%;
+  }
+
+  p {
+    position: absolute;
+    color: #ffffff;
+    margin-top: 380px;
+    margin-left: 30px;
+    font-family: Public Sans;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 100%;
+    letter-spacing: 0%;
+  }
